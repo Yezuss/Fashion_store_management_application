@@ -1,0 +1,338 @@
+C:\Users\HELLO\OneDrive\Documents\QuanLyBanHang_K&D\QuanLyCuaHangThoiTrangKD\QuanLyCuaHangThoiTrangKD\bin\Debug\QuanLyCuaHangThoiTrangKD.exe.config
+C:\Users\HELLO\OneDrive\Documents\QuanLyBanHang_K&D\QuanLyCuaHangThoiTrangKD\QuanLyCuaHangThoiTrangKD\bin\Debug\QuanLyCuaHangThoiTrangKD.exe
+C:\Users\HELLO\OneDrive\Documents\QuanLyBanHang_K&D\QuanLyCuaHangThoiTrangKD\QuanLyCuaHangThoiTrangKD\bin\Debug\QuanLyCuaHangThoiTrangKD.pdb
+C:\Users\HELLO\OneDrive\Documents\QuanLyBanHang_K&D\QuanLyCuaHangThoiTrangKD\QuanLyCuaHangThoiTrangKD\obj\Debug\QuanLyCuaHangThoiTrangKD.csprojAssemblyReference.cache
+C:\Users\HELLO\OneDrive\Documents\QuanLyBanHang_K&D\QuanLyCuaHangThoiTrangKD\QuanLyCuaHangThoiTrangKD\obj\Debug\QuanLyCuaHangThoiTrangKD.FormMain.resources
+C:\Users\HELLO\OneDrive\Documents\QuanLyBanHang_K&D\QuanLyCuaHangThoiTrangKD\QuanLyCuaHangThoiTrangKD\obj\Debug\QuanLyCuaHangThoiTrangKD.Properties.Resources.resources
+C:\Users\HELLO\OneDrive\Documents\QuanLyBanHang_K&D\QuanLyCuaHangThoiTrangKD\QuanLyCuaHangThoiTrangKD\obj\Debug\QuanLyCuaHangThoiTrangKD.csproj.GenerateResource.cache
+C:\Users\HELLO\OneDrive\Documents\QuanLyBanHang_K&D\QuanLyCuaHangThoiTrangKD\QuanLyCuaHangThoiTrangKD\obj\Debug\QuanLyCuaHangThoiTrangKD.csproj.CoreCompileInputs.cache
+C:\Users\HELLO\OneDrive\Documents\QuanLyBanHang_K&D\QuanLyCuaHangThoiTrangKD\QuanLyCuaHangThoiTrangKD\obj\Debug\QuanLyCuaHangThoiTrangKD.exe
+C:\Users\HELLO\OneDrive\Documents\QuanLyBanHang_K&D\QuanLyCuaHangThoiTrangKD\QuanLyCuaHangThoiTrangKD\obj\Debug\QuanLyCuaHangThoiTrangKD.pdb
+C:\Users\HELLO\OneDrive\Documents\QuanLyBanHang_K&D\QuanLyCuaHangThoiTrangKD\QuanLyCuaHangThoiTrangKD\obj\Debug\QuanLyCuaHangThoiTrangKD.Forms.FormKhachhang.resources
+C:\Users\HELLO\OneDrive\Documents\QuanLyBanHang_K&D\QuanLyCuaHangThoiTrangKD\QuanLyCuaHangThoiTrangKD\obj\Debug\QuanLyCuaHangThoiTrangKD.Forms.FormHoadon.resources
+C:\Users\HELLO\OneDrive\Documents\QuanLyBanHang_K&D\QuanLyCuaHangThoiTrangKD\QuanLyCuaHangThoiTrangKD\obj\Debug\QuanLyCuaHangThoiTrangKD.Forms.FormNhanvien.resources
+C:\Users\HELLO\OneDrive\Documents\QuanLyBanHang_K&D\QuanLyCuaHangThoiTrangKD\QuanLyCuaHangThoiTrangKD\obj\Debug\QuanLyCuaHangThoiTrangKD.Forms.FormSanpham.resources
+C:\Users\HELLO\OneDrive\Documents\QuanLyBanHang_K&D\QuanLyCuaHangThoiTrangKD\QuanLyCuaHangThoiTrangKD\obj\Debug\QuanLyCuaHangThoiTrangKD.Forms.FormTaikhoan.resources
+C:\Users\HELLO\OneDrive\Documents\QuanLyBanHang_K&D\QuanLyCuaHangThoiTrangKD\QuanLyCuaHangThoiTrangKD\obj\Debug\QuanLyCuaHangThoiTrangKD.Forms.FormThongke.resources
+E:\Phat trien ung dung\pham mem\v1\PTUD_DO_AN\QuanLyCuaHangThoiTrangKD\QuanLyCuaHangThoiTrangKD\bin\Debug\QuanLyCuaHangThoiTrangKD.exe.config
+E:\Phat trien ung dung\pham mem\v1\PTUD_DO_AN\QuanLyCuaHangThoiTrangKD\QuanLyCuaHangThoiTrangKD\bin\Debug\QuanLyCuaHangThoiTrangKD.exe
+E:\Phat trien ung dung\pham mem\v1\PTUD_DO_AN\QuanLyCuaHangThoiTrangKD\QuanLyCuaHangThoiTrangKD\bin\Debug\QuanLyCuaHangThoiTrangKD.pdb
+E:\Phat trien ung dung\pham mem\v1\PTUD_DO_AN\QuanLyCuaHangThoiTrangKD\QuanLyCuaHangThoiTrangKD\obj\Debug\QuanLyCuaHangThoiTrangKD.FormMain.resources
+E:\Phat trien ung dung\pham mem\v1\PTUD_DO_AN\QuanLyCuaHangThoiTrangKD\QuanLyCuaHangThoiTrangKD\obj\Debug\QuanLyCuaHangThoiTrangKD.Forms.FormHoadon.resources
+E:\Phat trien ung dung\pham mem\v1\PTUD_DO_AN\QuanLyCuaHangThoiTrangKD\QuanLyCuaHangThoiTrangKD\obj\Debug\QuanLyCuaHangThoiTrangKD.Forms.FormKhachhang.resources
+E:\Phat trien ung dung\pham mem\v1\PTUD_DO_AN\QuanLyCuaHangThoiTrangKD\QuanLyCuaHangThoiTrangKD\obj\Debug\QuanLyCuaHangThoiTrangKD.Forms.FormNhanvien.resources
+E:\Phat trien ung dung\pham mem\v1\PTUD_DO_AN\QuanLyCuaHangThoiTrangKD\QuanLyCuaHangThoiTrangKD\obj\Debug\QuanLyCuaHangThoiTrangKD.Forms.FormSanpham.resources
+E:\Phat trien ung dung\pham mem\v1\PTUD_DO_AN\QuanLyCuaHangThoiTrangKD\QuanLyCuaHangThoiTrangKD\obj\Debug\QuanLyCuaHangThoiTrangKD.Forms.FormTaikhoan.resources
+E:\Phat trien ung dung\pham mem\v1\PTUD_DO_AN\QuanLyCuaHangThoiTrangKD\QuanLyCuaHangThoiTrangKD\obj\Debug\QuanLyCuaHangThoiTrangKD.Forms.FormThongke.resources
+E:\Phat trien ung dung\pham mem\v1\PTUD_DO_AN\QuanLyCuaHangThoiTrangKD\QuanLyCuaHangThoiTrangKD\obj\Debug\QuanLyCuaHangThoiTrangKD.Properties.Resources.resources
+E:\Phat trien ung dung\pham mem\v1\PTUD_DO_AN\QuanLyCuaHangThoiTrangKD\QuanLyCuaHangThoiTrangKD\obj\Debug\QuanLyCuaHangThoiTrangKD.csproj.GenerateResource.cache
+E:\Phat trien ung dung\pham mem\v1\PTUD_DO_AN\QuanLyCuaHangThoiTrangKD\QuanLyCuaHangThoiTrangKD\obj\Debug\QuanLyCuaHangThoiTrangKD.csproj.CoreCompileInputs.cache
+E:\Phat trien ung dung\pham mem\v1\PTUD_DO_AN\QuanLyCuaHangThoiTrangKD\QuanLyCuaHangThoiTrangKD\obj\Debug\QuanLyCuaHangThoiTrangKD.exe
+E:\Phat trien ung dung\pham mem\v1\PTUD_DO_AN\QuanLyCuaHangThoiTrangKD\QuanLyCuaHangThoiTrangKD\obj\Debug\QuanLyCuaHangThoiTrangKD.pdb
+E:\Phat trien ung dung\pham mem\v1\PTUD_DO_AN\QuanLyCuaHangThoiTrangKD\QuanLyCuaHangThoiTrangKD\obj\Debug\QuanLyCuaHangThoiTrangKD.exe.config
+E:\Phat trien ung dung\pham mem\v1\PTUD_DO_AN\QuanLyCuaHangThoiTrangKD\QuanLyCuaHangThoiTrangKD\obj\Debug\QuanLyCuaHangThoiTrangKD.Forms.Function.FormLapHoaDon.resources
+E:\Phat trien ung dung\pham mem\v1\PTUD_DO_AN\QuanLyCuaHangThoiTrangKD\QuanLyCuaHangThoiTrangKD\obj\Debug\QuanLyCuaHangThoiTrangKD.exe.licenses
+E:\Phat trien ung dung\pham mem\v1\PTUD_DO_AN\QuanLyCuaHangThoiTrangKD\QuanLyCuaHangThoiTrangKD\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+E:\Phat trien ung dung\pham mem\v1\PTUD_DO_AN\QuanLyCuaHangThoiTrangKD\QuanLyCuaHangThoiTrangKD\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+E:\Phat trien ung dung\pham mem\v1\PTUD_DO_AN\QuanLyCuaHangThoiTrangKD\QuanLyCuaHangThoiTrangKD\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.dll
+E:\Phat trien ung dung\pham mem\v1\PTUD_DO_AN\QuanLyCuaHangThoiTrangKD\QuanLyCuaHangThoiTrangKD\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.dll
+E:\Phat trien ung dung\pham mem\v1\PTUD_DO_AN\QuanLyCuaHangThoiTrangKD\QuanLyCuaHangThoiTrangKD\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+E:\Phat trien ung dung\pham mem\v1\PTUD_DO_AN\QuanLyCuaHangThoiTrangKD\QuanLyCuaHangThoiTrangKD\bin\Debug\Bunifu.UI.WinForms.BunifuPages.dll
+E:\Phat trien ung dung\pham mem\v1\PTUD_DO_AN\QuanLyCuaHangThoiTrangKD\QuanLyCuaHangThoiTrangKD\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.dll
+E:\Phat trien ung dung\pham mem\v1\PTUD_DO_AN\QuanLyCuaHangThoiTrangKD\QuanLyCuaHangThoiTrangKD\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.dll
+E:\Phat trien ung dung\pham mem\v1\PTUD_DO_AN\QuanLyCuaHangThoiTrangKD\QuanLyCuaHangThoiTrangKD\bin\Debug\EntityFramework.dll
+E:\Phat trien ung dung\pham mem\v1\PTUD_DO_AN\QuanLyCuaHangThoiTrangKD\QuanLyCuaHangThoiTrangKD\bin\Debug\EntityFramework.SqlServer.dll
+E:\Phat trien ung dung\pham mem\v1\PTUD_DO_AN\QuanLyCuaHangThoiTrangKD\QuanLyCuaHangThoiTrangKD\bin\Debug\EntityFramework.xml
+E:\Phat trien ung dung\pham mem\v1\PTUD_DO_AN\QuanLyCuaHangThoiTrangKD\QuanLyCuaHangThoiTrangKD\bin\Debug\EntityFramework.SqlServer.xml
+E:\Phat trien ung dung\pham mem\v1\PTUD_DO_AN\QuanLyCuaHangThoiTrangKD\QuanLyCuaHangThoiTrangKD\obj\Debug\QuanLyCuaHangThoiTrangKD.csproj.CopyComplete
+E:\Phat trien ung dung\pham mem\v1\PTUD_DO_AN\QuanLyCuaHangThoiTrangKD\QuanLyCuaHangThoiTrangKD\obj\Debug\QuanLyCuaHangThoiTrangKD.csprojAssemblyReference.cache
+E:\Phat trien ung dung\pham mem\v1\PTUD_DO_AN\QuanLyCuaHangThoiTrangKD\QuanLyCuaHangThoiTrangKD\obj\Debug\QuanLyCuaHangThoiTrangKD.Forms.Function.FormLapPhieuNhap.resources
+E:\Phat trien ung dung\pham mem\v1\PTUD_DO_AN\QuanLyCuaHangThoiTrangKD\QuanLyCuaHangThoiTrangKD\obj\Debug\QuanLyCuaHangThoiTrangKD.Forms.Function.FormThemNCC.resources
+E:\Phat trien ung dung\pham mem\v1\PTUD_DO_AN\QuanLyCuaHangThoiTrangKD\QuanLyCuaHangThoiTrangKD\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.dll
+E:\Phat trien ung dung\pham mem\v1\PTUD_DO_AN\QuanLyCuaHangThoiTrangKD\QuanLyCuaHangThoiTrangKD\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+E:\Phat trien ung dung\pham mem\v1\PTUD_DO_AN\QuanLyCuaHangThoiTrangKD\QuanLyCuaHangThoiTrangKD\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.dll
+E:\Phat trien ung dung\pham mem\v1\PTUD_DO_AN\QuanLyCuaHangThoiTrangKD\QuanLyCuaHangThoiTrangKD\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.dll
+E:\Phat trien ung dung\pham mem\v1\PTUD_DO_AN\QuanLyCuaHangThoiTrangKD\QuanLyCuaHangThoiTrangKD\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.dll
+C:\baithiHTML\PTUD_DO_AN\QuanLyCuaHangThoiTrangKD\QuanLyCuaHangThoiTrangKD\bin\Debug\QuanLyCuaHangThoiTrangKD.exe.config
+C:\baithiHTML\PTUD_DO_AN\QuanLyCuaHangThoiTrangKD\QuanLyCuaHangThoiTrangKD\bin\Debug\QuanLyCuaHangThoiTrangKD.exe
+C:\baithiHTML\PTUD_DO_AN\QuanLyCuaHangThoiTrangKD\QuanLyCuaHangThoiTrangKD\bin\Debug\QuanLyCuaHangThoiTrangKD.pdb
+C:\baithiHTML\PTUD_DO_AN\QuanLyCuaHangThoiTrangKD\QuanLyCuaHangThoiTrangKD\bin\Debug\EntityFramework.dll
+C:\baithiHTML\PTUD_DO_AN\QuanLyCuaHangThoiTrangKD\QuanLyCuaHangThoiTrangKD\bin\Debug\EntityFramework.SqlServer.dll
+C:\baithiHTML\PTUD_DO_AN\QuanLyCuaHangThoiTrangKD\QuanLyCuaHangThoiTrangKD\bin\Debug\EntityFramework.xml
+C:\baithiHTML\PTUD_DO_AN\QuanLyCuaHangThoiTrangKD\QuanLyCuaHangThoiTrangKD\bin\Debug\EntityFramework.SqlServer.xml
+C:\baithiHTML\PTUD_DO_AN\QuanLyCuaHangThoiTrangKD\QuanLyCuaHangThoiTrangKD\obj\Debug\QuanLyCuaHangThoiTrangKD.csprojAssemblyReference.cache
+C:\baithiHTML\PTUD_DO_AN\QuanLyCuaHangThoiTrangKD\QuanLyCuaHangThoiTrangKD\obj\Debug\QuanLyCuaHangThoiTrangKD.exe.config
+C:\baithiHTML\PTUD_DO_AN\QuanLyCuaHangThoiTrangKD\QuanLyCuaHangThoiTrangKD\obj\Debug\QuanLyCuaHangThoiTrangKD.FormMain.resources
+C:\baithiHTML\PTUD_DO_AN\QuanLyCuaHangThoiTrangKD\QuanLyCuaHangThoiTrangKD\obj\Debug\QuanLyCuaHangThoiTrangKD.Forms.FormHoadon.resources
+C:\baithiHTML\PTUD_DO_AN\QuanLyCuaHangThoiTrangKD\QuanLyCuaHangThoiTrangKD\obj\Debug\QuanLyCuaHangThoiTrangKD.Forms.FormKhachhang.resources
+C:\baithiHTML\PTUD_DO_AN\QuanLyCuaHangThoiTrangKD\QuanLyCuaHangThoiTrangKD\obj\Debug\QuanLyCuaHangThoiTrangKD.Forms.FormNhanvien.resources
+C:\baithiHTML\PTUD_DO_AN\QuanLyCuaHangThoiTrangKD\QuanLyCuaHangThoiTrangKD\obj\Debug\QuanLyCuaHangThoiTrangKD.Forms.FormSanpham.resources
+C:\baithiHTML\PTUD_DO_AN\QuanLyCuaHangThoiTrangKD\QuanLyCuaHangThoiTrangKD\obj\Debug\QuanLyCuaHangThoiTrangKD.Forms.FormTaikhoan.resources
+C:\baithiHTML\PTUD_DO_AN\QuanLyCuaHangThoiTrangKD\QuanLyCuaHangThoiTrangKD\obj\Debug\QuanLyCuaHangThoiTrangKD.Forms.FormThongke.resources
+C:\baithiHTML\PTUD_DO_AN\QuanLyCuaHangThoiTrangKD\QuanLyCuaHangThoiTrangKD\obj\Debug\QuanLyCuaHangThoiTrangKD.Forms.Function.FormLapHoaDon.resources
+C:\baithiHTML\PTUD_DO_AN\QuanLyCuaHangThoiTrangKD\QuanLyCuaHangThoiTrangKD\obj\Debug\QuanLyCuaHangThoiTrangKD.Forms.Function.FormLapPhieuNhap.resources
+C:\baithiHTML\PTUD_DO_AN\QuanLyCuaHangThoiTrangKD\QuanLyCuaHangThoiTrangKD\obj\Debug\QuanLyCuaHangThoiTrangKD.Properties.Resources.resources
+C:\baithiHTML\PTUD_DO_AN\QuanLyCuaHangThoiTrangKD\QuanLyCuaHangThoiTrangKD\obj\Debug\QuanLyCuaHangThoiTrangKD.csproj.GenerateResource.cache
+C:\baithiHTML\PTUD_DO_AN\QuanLyCuaHangThoiTrangKD\QuanLyCuaHangThoiTrangKD\obj\Debug\QuanLyCuaHangThoiTrangKD.exe.licenses
+C:\baithiHTML\PTUD_DO_AN\QuanLyCuaHangThoiTrangKD\QuanLyCuaHangThoiTrangKD\obj\Debug\QuanLyCuaHangThoiTrangKD.csproj.CoreCompileInputs.cache
+C:\baithiHTML\PTUD_DO_AN\QuanLyCuaHangThoiTrangKD\QuanLyCuaHangThoiTrangKD\obj\Debug\QuanLyCuaHangThoiTrangKD.csproj.CopyComplete
+C:\baithiHTML\PTUD_DO_AN\QuanLyCuaHangThoiTrangKD\QuanLyCuaHangThoiTrangKD\obj\Debug\QuanLyCuaHangThoiTrangKD.exe
+C:\baithiHTML\PTUD_DO_AN\QuanLyCuaHangThoiTrangKD\QuanLyCuaHangThoiTrangKD\obj\Debug\QuanLyCuaHangThoiTrangKD.pdb
+C:\baithiHTML\PTUD_DO_AN\QuanLyCuaHangThoiTrangKD\QuanLyCuaHangThoiTrangKD\obj\Debug\QuanLyCuaHangThoiTrangKD.Forms.Function.FormCapNhatHoaDon.resources
+C:\baithiHTML\PTUD_DO_AN\QuanLyCuaHangThoiTrangKD\QuanLyCuaHangThoiTrangKD\obj\Debug\QuanLyCuaHangThoiTrangKD.Forms.Function.FormCapNhatPhieuNhap.resources
+C:\baithiHTML\PTUD_DO_AN\QuanLyCuaHangThoiTrangKD\QuanLyCuaHangThoiTrangKD\obj\Debug\QuanLyCuaHangThoiTrangKD.Forms.Function.FormDatLaiMatKhau.resources
+C:\baithiHTML\PTUD_DO_AN\QuanLyCuaHangThoiTrangKD\QuanLyCuaHangThoiTrangKD\obj\Debug\QuanLyCuaHangThoiTrangKD.Forms.Function.FormLuongNhanVien.resources
+C:\baithiHTML\PTUD_DO_AN\QuanLyCuaHangThoiTrangKD\QuanLyCuaHangThoiTrangKD\obj\Debug\QuanLyCuaHangThoiTrangKD.Forms.Function.FormThongKetheoHD.resources
+C:\baithiHTML\PTUD_DO_AN\QuanLyCuaHangThoiTrangKD\QuanLyCuaHangThoiTrangKD\obj\Debug\QuanLyCuaHangThoiTrangKD.Forms.Function.FormThongKetheoSP.resources
+C:\baithiHTML\PTUD_DO_AN\QuanLyCuaHangThoiTrangKD\QuanLyCuaHangThoiTrangKD\obj\Debug\QuanLyCuaHangThoiTrangKD.Forms.Function.FormThongTinNhanVien.resources
+C:\baithiHTML\PTUD_DO_AN\QuanLyCuaHangThoiTrangKD\QuanLyCuaHangThoiTrangKD\obj\Debug\QuanLyCuaHangThoiTrangKD.Forms.Function.FormThongTinSanPham.resources
+C:\baithiHTML\PTUD_DO_AN\QuanLyCuaHangThoiTrangKD\QuanLyCuaHangThoiTrangKD\obj\Debug\QuanLyCuaHangThoiTrangKD.Forms.FormDangNhap.resources
+C:\K&D\PTUD_DO_AN\QuanLyCuaHangThoiTrangKD\QuanLyCuaHangThoiTrangKD\bin\Debug\QuanLyCuaHangThoiTrangKD.exe.config
+C:\K&D\PTUD_DO_AN\QuanLyCuaHangThoiTrangKD\QuanLyCuaHangThoiTrangKD\bin\Debug\QuanLyCuaHangThoiTrangKD.exe
+C:\K&D\PTUD_DO_AN\QuanLyCuaHangThoiTrangKD\QuanLyCuaHangThoiTrangKD\bin\Debug\QuanLyCuaHangThoiTrangKD.pdb
+C:\K&D\PTUD_DO_AN\QuanLyCuaHangThoiTrangKD\QuanLyCuaHangThoiTrangKD\bin\Debug\EntityFramework.dll
+C:\K&D\PTUD_DO_AN\QuanLyCuaHangThoiTrangKD\QuanLyCuaHangThoiTrangKD\bin\Debug\EntityFramework.SqlServer.dll
+C:\K&D\PTUD_DO_AN\QuanLyCuaHangThoiTrangKD\QuanLyCuaHangThoiTrangKD\bin\Debug\EntityFramework.xml
+C:\K&D\PTUD_DO_AN\QuanLyCuaHangThoiTrangKD\QuanLyCuaHangThoiTrangKD\bin\Debug\EntityFramework.SqlServer.xml
+C:\K&D\PTUD_DO_AN\QuanLyCuaHangThoiTrangKD\QuanLyCuaHangThoiTrangKD\obj\Debug\QuanLyCuaHangThoiTrangKD.csprojAssemblyReference.cache
+C:\K&D\PTUD_DO_AN\QuanLyCuaHangThoiTrangKD\QuanLyCuaHangThoiTrangKD\obj\Debug\QuanLyCuaHangThoiTrangKD.exe.config
+C:\K&D\PTUD_DO_AN\QuanLyCuaHangThoiTrangKD\QuanLyCuaHangThoiTrangKD\obj\Debug\QuanLyCuaHangThoiTrangKD.Forms.FormDangNhap.resources
+C:\K&D\PTUD_DO_AN\QuanLyCuaHangThoiTrangKD\QuanLyCuaHangThoiTrangKD\obj\Debug\QuanLyCuaHangThoiTrangKD.Forms.Function.FormCapNhatHoaDon.resources
+C:\K&D\PTUD_DO_AN\QuanLyCuaHangThoiTrangKD\QuanLyCuaHangThoiTrangKD\obj\Debug\QuanLyCuaHangThoiTrangKD.Forms.Function.FormCapNhatPhieuNhap.resources
+C:\K&D\PTUD_DO_AN\QuanLyCuaHangThoiTrangKD\QuanLyCuaHangThoiTrangKD\obj\Debug\QuanLyCuaHangThoiTrangKD.Forms.Function.FormDatLaiMatKhau.resources
+C:\K&D\PTUD_DO_AN\QuanLyCuaHangThoiTrangKD\QuanLyCuaHangThoiTrangKD\obj\Debug\QuanLyCuaHangThoiTrangKD.Forms.Function.FormLapHoaDon.resources
+C:\K&D\PTUD_DO_AN\QuanLyCuaHangThoiTrangKD\QuanLyCuaHangThoiTrangKD\obj\Debug\QuanLyCuaHangThoiTrangKD.Forms.Function.FormLapPhieuNhap.resources
+C:\K&D\PTUD_DO_AN\QuanLyCuaHangThoiTrangKD\QuanLyCuaHangThoiTrangKD\obj\Debug\QuanLyCuaHangThoiTrangKD.Forms.Function.FormLuongNhanVien.resources
+C:\K&D\PTUD_DO_AN\QuanLyCuaHangThoiTrangKD\QuanLyCuaHangThoiTrangKD\obj\Debug\QuanLyCuaHangThoiTrangKD.Forms.Function.FormThongKetheoHD.resources
+C:\K&D\PTUD_DO_AN\QuanLyCuaHangThoiTrangKD\QuanLyCuaHangThoiTrangKD\obj\Debug\QuanLyCuaHangThoiTrangKD.Forms.Function.FormThongKetheoSP.resources
+C:\K&D\PTUD_DO_AN\QuanLyCuaHangThoiTrangKD\QuanLyCuaHangThoiTrangKD\obj\Debug\QuanLyCuaHangThoiTrangKD.Forms.Function.FormThongTinNhanVien.resources
+C:\K&D\PTUD_DO_AN\QuanLyCuaHangThoiTrangKD\QuanLyCuaHangThoiTrangKD\obj\Debug\QuanLyCuaHangThoiTrangKD.Forms.Function.FormThongTinSanPham.resources
+C:\K&D\PTUD_DO_AN\QuanLyCuaHangThoiTrangKD\QuanLyCuaHangThoiTrangKD\obj\Debug\QuanLyCuaHangThoiTrangKD.Properties.Resources.resources
+C:\K&D\PTUD_DO_AN\QuanLyCuaHangThoiTrangKD\QuanLyCuaHangThoiTrangKD\obj\Debug\QuanLyCuaHangThoiTrangKD.csproj.GenerateResource.cache
+C:\K&D\PTUD_DO_AN\QuanLyCuaHangThoiTrangKD\QuanLyCuaHangThoiTrangKD\obj\Debug\QuanLyCuaHangThoiTrangKD.exe.licenses
+C:\K&D\PTUD_DO_AN\QuanLyCuaHangThoiTrangKD\QuanLyCuaHangThoiTrangKD\obj\Debug\QuanLyCuaHangThoiTrangKD.csproj.CoreCompileInputs.cache
+C:\K&D\PTUD_DO_AN\QuanLyCuaHangThoiTrangKD\QuanLyCuaHangThoiTrangKD\obj\Debug\QuanLyCuaHangThoiTrangKD.csproj.CopyComplete
+C:\K&D\PTUD_DO_AN\QuanLyCuaHangThoiTrangKD\QuanLyCuaHangThoiTrangKD\obj\Debug\QuanLyCuaHangThoiTrangKD.exe
+C:\K&D\PTUD_DO_AN\QuanLyCuaHangThoiTrangKD\QuanLyCuaHangThoiTrangKD\obj\Debug\QuanLyCuaHangThoiTrangKD.pdb
+C:\K&D\PTUD_DO_AN\QuanLyCuaHangThoiTrangKD\QuanLyCuaHangThoiTrangKD\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.dll
+C:\K&D\PTUD_DO_AN\QuanLyCuaHangThoiTrangKD\QuanLyCuaHangThoiTrangKD\obj\Debug\QuanLyCuaHangThoiTrangKD.Forms.Function.FormThongTinNCC.resources
+C:\K&D\PTUD_DO_AN\QuanLyCuaHangThoiTrangKD\QuanLyCuaHangThoiTrangKD\obj\Debug\QuanLyCuaHangThoiTrangKD.Forms.Function.FormThongTinKhachHang.resources
+C:\K&D\PTUD_DO_AN\QuanLyCuaHangThoiTrangKD\QuanLyCuaHangThoiTrangKD\obj\Debug\QuanLyCuaHangThoiTrangKD.Forms.Function.FormThongTinTaiKhoan.resources
+C:\K&D\PTUD_DO_AN\QuanLyCuaHangThoiTrangKD\QuanLyCuaHangThoiTrangKD\bin\Debug\Bunifu.UI.WinForms.1.5.3.dll
+C:\K&D\PTUD_DO_AN\QuanLyCuaHangThoiTrangKD\QuanLyCuaHangThoiTrangKD\obj\Debug\QuanLyCuaHangThoiTrangKD.FrmMain.resources
+E:\Phat trien ung dung\pham mem\Duc\PTUD_DO_AN\QuanLyCuaHangThoiTrangKD\QuanLyCuaHangThoiTrangKD\obj\Debug\QuanLyCuaHangThoiTrangKD.csprojAssemblyReference.cache
+E:\Phat trien ung dung\pham mem\Duc\PTUD_DO_AN\QuanLyCuaHangThoiTrangKD\QuanLyCuaHangThoiTrangKD\obj\Debug\QuanLyCuaHangThoiTrangKD.exe.config
+E:\Phat trien ung dung\pham mem\Duc\PTUD_DO_AN\QuanLyCuaHangThoiTrangKD\QuanLyCuaHangThoiTrangKD\obj\Debug\QuanLyCuaHangThoiTrangKD.FrmMain.resources
+E:\Phat trien ung dung\pham mem\Duc\PTUD_DO_AN\QuanLyCuaHangThoiTrangKD\QuanLyCuaHangThoiTrangKD\obj\Debug\QuanLyCuaHangThoiTrangKD.Forms.FormDangNhap.resources
+E:\Phat trien ung dung\pham mem\Duc\PTUD_DO_AN\QuanLyCuaHangThoiTrangKD\QuanLyCuaHangThoiTrangKD\obj\Debug\QuanLyCuaHangThoiTrangKD.Forms.Function.FormCapNhatHoaDon.resources
+E:\Phat trien ung dung\pham mem\Duc\PTUD_DO_AN\QuanLyCuaHangThoiTrangKD\QuanLyCuaHangThoiTrangKD\obj\Debug\QuanLyCuaHangThoiTrangKD.Forms.Function.FormCapNhatPhieuNhap.resources
+E:\Phat trien ung dung\pham mem\Duc\PTUD_DO_AN\QuanLyCuaHangThoiTrangKD\QuanLyCuaHangThoiTrangKD\obj\Debug\QuanLyCuaHangThoiTrangKD.Forms.Function.FormLapHoaDon.resources
+E:\Phat trien ung dung\pham mem\Duc\PTUD_DO_AN\QuanLyCuaHangThoiTrangKD\QuanLyCuaHangThoiTrangKD\obj\Debug\QuanLyCuaHangThoiTrangKD.Forms.Function.FormLapPhieuNhap.resources
+E:\Phat trien ung dung\pham mem\Duc\PTUD_DO_AN\QuanLyCuaHangThoiTrangKD\QuanLyCuaHangThoiTrangKD\obj\Debug\QuanLyCuaHangThoiTrangKD.Forms.Function.FormLuongNhanVien.resources
+E:\Phat trien ung dung\pham mem\Duc\PTUD_DO_AN\QuanLyCuaHangThoiTrangKD\QuanLyCuaHangThoiTrangKD\obj\Debug\QuanLyCuaHangThoiTrangKD.Forms.Function.FormThongKetheoHD.resources
+E:\Phat trien ung dung\pham mem\Duc\PTUD_DO_AN\QuanLyCuaHangThoiTrangKD\QuanLyCuaHangThoiTrangKD\obj\Debug\QuanLyCuaHangThoiTrangKD.Forms.Function.FormThongKetheoSP.resources
+E:\Phat trien ung dung\pham mem\Duc\PTUD_DO_AN\QuanLyCuaHangThoiTrangKD\QuanLyCuaHangThoiTrangKD\obj\Debug\QuanLyCuaHangThoiTrangKD.Forms.Function.FormThongTinKhachHang.resources
+E:\Phat trien ung dung\pham mem\Duc\PTUD_DO_AN\QuanLyCuaHangThoiTrangKD\QuanLyCuaHangThoiTrangKD\obj\Debug\QuanLyCuaHangThoiTrangKD.Forms.Function.FormThongTinNCC.resources
+E:\Phat trien ung dung\pham mem\Duc\PTUD_DO_AN\QuanLyCuaHangThoiTrangKD\QuanLyCuaHangThoiTrangKD\obj\Debug\QuanLyCuaHangThoiTrangKD.Forms.Function.FormThongTinNhanVien.resources
+E:\Phat trien ung dung\pham mem\Duc\PTUD_DO_AN\QuanLyCuaHangThoiTrangKD\QuanLyCuaHangThoiTrangKD\obj\Debug\QuanLyCuaHangThoiTrangKD.Forms.Function.FormThongTinSanPham.resources
+E:\Phat trien ung dung\pham mem\Duc\PTUD_DO_AN\QuanLyCuaHangThoiTrangKD\QuanLyCuaHangThoiTrangKD\obj\Debug\QuanLyCuaHangThoiTrangKD.Forms.Function.FormThongTinTaiKhoan.resources
+E:\Phat trien ung dung\pham mem\Duc\PTUD_DO_AN\QuanLyCuaHangThoiTrangKD\QuanLyCuaHangThoiTrangKD\obj\Debug\QuanLyCuaHangThoiTrangKD.Properties.Resources.resources
+E:\Phat trien ung dung\pham mem\Duc\PTUD_DO_AN\QuanLyCuaHangThoiTrangKD\QuanLyCuaHangThoiTrangKD\obj\Debug\QuanLyCuaHangThoiTrangKD.csproj.GenerateResource.cache
+E:\Phat trien ung dung\pham mem\Duc\PTUD_DO_AN\QuanLyCuaHangThoiTrangKD\QuanLyCuaHangThoiTrangKD\obj\Debug\QuanLyCuaHangThoiTrangKD.exe.licenses
+E:\Phat trien ung dung\pham mem\Duc\PTUD_DO_AN\QuanLyCuaHangThoiTrangKD\QuanLyCuaHangThoiTrangKD\obj\Debug\QuanLyCuaHangThoiTrangKD.csproj.CoreCompileInputs.cache
+E:\Phat trien ung dung\pham mem\Duc\PTUD_DO_AN\QuanLyCuaHangThoiTrangKD\QuanLyCuaHangThoiTrangKD\obj\Debug\QuanLyCuaHangThoiTrangKD.exe
+E:\Phat trien ung dung\pham mem\Duc\PTUD_DO_AN\QuanLyCuaHangThoiTrangKD\QuanLyCuaHangThoiTrangKD\obj\Debug\QuanLyCuaHangThoiTrangKD.pdb
+E:\Phat trien ung dung\pham mem\Duc\PTUD_DO_AN\QuanLyCuaHangThoiTrangKD\QuanLyCuaHangThoiTrangKD\bin\Debug\QuanLyCuaHangThoiTrangKD.exe.config
+E:\Phat trien ung dung\pham mem\Duc\PTUD_DO_AN\QuanLyCuaHangThoiTrangKD\QuanLyCuaHangThoiTrangKD\bin\Debug\QuanLyCuaHangThoiTrangKD.exe
+E:\Phat trien ung dung\pham mem\Duc\PTUD_DO_AN\QuanLyCuaHangThoiTrangKD\QuanLyCuaHangThoiTrangKD\bin\Debug\QuanLyCuaHangThoiTrangKD.pdb
+E:\Phat trien ung dung\pham mem\Duc\PTUD_DO_AN\QuanLyCuaHangThoiTrangKD\QuanLyCuaHangThoiTrangKD\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.dll
+E:\Phat trien ung dung\pham mem\Duc\PTUD_DO_AN\QuanLyCuaHangThoiTrangKD\QuanLyCuaHangThoiTrangKD\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.dll
+E:\Phat trien ung dung\pham mem\Duc\PTUD_DO_AN\QuanLyCuaHangThoiTrangKD\QuanLyCuaHangThoiTrangKD\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.dll
+E:\Phat trien ung dung\pham mem\Duc\PTUD_DO_AN\QuanLyCuaHangThoiTrangKD\QuanLyCuaHangThoiTrangKD\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+E:\Phat trien ung dung\pham mem\Duc\PTUD_DO_AN\QuanLyCuaHangThoiTrangKD\QuanLyCuaHangThoiTrangKD\bin\Debug\Bunifu.UI.WinForms.BunifuPages.dll
+E:\Phat trien ung dung\pham mem\Duc\PTUD_DO_AN\QuanLyCuaHangThoiTrangKD\QuanLyCuaHangThoiTrangKD\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.dll
+E:\Phat trien ung dung\pham mem\Duc\PTUD_DO_AN\QuanLyCuaHangThoiTrangKD\QuanLyCuaHangThoiTrangKD\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+E:\Phat trien ung dung\pham mem\Duc\PTUD_DO_AN\QuanLyCuaHangThoiTrangKD\QuanLyCuaHangThoiTrangKD\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.dll
+E:\Phat trien ung dung\pham mem\Duc\PTUD_DO_AN\QuanLyCuaHangThoiTrangKD\QuanLyCuaHangThoiTrangKD\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.dll
+E:\Phat trien ung dung\pham mem\Duc\PTUD_DO_AN\QuanLyCuaHangThoiTrangKD\QuanLyCuaHangThoiTrangKD\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.dll
+E:\Phat trien ung dung\pham mem\Duc\PTUD_DO_AN\QuanLyCuaHangThoiTrangKD\QuanLyCuaHangThoiTrangKD\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.dll
+E:\Phat trien ung dung\pham mem\Duc\PTUD_DO_AN\QuanLyCuaHangThoiTrangKD\QuanLyCuaHangThoiTrangKD\bin\Debug\EntityFramework.dll
+E:\Phat trien ung dung\pham mem\Duc\PTUD_DO_AN\QuanLyCuaHangThoiTrangKD\QuanLyCuaHangThoiTrangKD\bin\Debug\EntityFramework.SqlServer.dll
+E:\Phat trien ung dung\pham mem\Duc\PTUD_DO_AN\QuanLyCuaHangThoiTrangKD\QuanLyCuaHangThoiTrangKD\bin\Debug\EntityFramework.xml
+E:\Phat trien ung dung\pham mem\Duc\PTUD_DO_AN\QuanLyCuaHangThoiTrangKD\QuanLyCuaHangThoiTrangKD\bin\Debug\EntityFramework.SqlServer.xml
+E:\Phat trien ung dung\pham mem\Duc\PTUD_DO_AN\QuanLyCuaHangThoiTrangKD\QuanLyCuaHangThoiTrangKD\obj\Debug\QuanLyCuaHangThoiTrangKD.csproj.CopyComplete
+E:\Phat trien ung dung\pham mem\Duc\PTUD_DO_AN\QuanLyCuaHangThoiTrangKD\QuanLyCuaHangThoiTrangKD\obj\Debug\QuanLyCuaHangThoiTrangKD.Forms.Function.FormDanhMucSanPham.resources
+E:\Phat trien ung dung\pham mem\Duc\PTUD_DO_AN\QuanLyCuaHangThoiTrangKD\QuanLyCuaHangThoiTrangKD\obj\Debug\QuanLyCuaHangThoiTrangKD.Forms.Function.FormThayDoiMatKhau.resources
+E:\Phat trien ung dung\pham mem\Duc\PTUD_DO_AN\QuanLyCuaHangThoiTrangKD\QuanLyCuaHangThoiTrangKD\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.dll
+E:\Phat trien ung dung\pham mem\Duc\PTUD_DO_AN\QuanLyCuaHangThoiTrangKD\QuanLyCuaHangThoiTrangKD\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.dll
+E:\Phat trien ung dung\pham mem\Duc\PTUD_DO_AN\QuanLyCuaHangThoiTrangKD\QuanLyCuaHangThoiTrangKD\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.dll
+E:\Phat trien ung dung\pham mem\Duc\PTUD_DO_AN\QuanLyCuaHangThoiTrangKD\QuanLyCuaHangThoiTrangKD\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.dll
+E:\Phat trien ung dung\pham mem\Duc\PTUD_DO_AN\QuanLyCuaHangThoiTrangKD\QuanLyCuaHangThoiTrangKD\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.dll
+E:\Phat trien ung dung\pham mem\Duc\PTUD_DO_AN\QuanLyCuaHangThoiTrangKD\QuanLyCuaHangThoiTrangKD\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.dll
+E:\Phat trien ung dung\pham mem\Duc\PTUD_DO_AN\QuanLyCuaHangThoiTrangKD\QuanLyCuaHangThoiTrangKD\bin\Debug\Bunifu.UI.WinForms.BunifuRating.dll
+E:\Phat trien ung dung\pham mem\Duc\PTUD_DO_AN\QuanLyCuaHangThoiTrangKD\QuanLyCuaHangThoiTrangKD\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.dll
+E:\Phat trien ung dung\pham mem\Duc\PTUD_DO_AN\QuanLyCuaHangThoiTrangKD\QuanLyCuaHangThoiTrangKD\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.dll
+E:\Phat trien ung dung\pham mem\Duc\PTUD_DO_AN\QuanLyCuaHangThoiTrangKD\QuanLyCuaHangThoiTrangKD\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.dll
+E:\Phat trien ung dung\pham mem\Duc\PTUD_DO_AN\QuanLyCuaHangThoiTrangKD\QuanLyCuaHangThoiTrangKD\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.dll
+E:\Phat trien ung dung\pham mem\Duc\PTUD_DO_AN\QuanLyCuaHangThoiTrangKD\QuanLyCuaHangThoiTrangKD\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.dll
+E:\Phat trien ung dung\pham mem\Duc\PTUD_DO_AN\QuanLyCuaHangThoiTrangKD\QuanLyCuaHangThoiTrangKD\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.dll
+E:\Phat trien ung dung\pham mem\Duc\PTUD_DO_AN\QuanLyCuaHangThoiTrangKD\QuanLyCuaHangThoiTrangKD\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.dll
+E:\Phat trien ung dung\pham mem\Duc\PTUD_DO_AN\QuanLyCuaHangThoiTrangKD\QuanLyCuaHangThoiTrangKD\bin\Debug\Bunifu.UI.WinForms.Deprecated.dll
+E:\Phat trien ung dung\pham mem\Duc\PTUD_DO_AN\QuanLyCuaHangThoiTrangKD\QuanLyCuaHangThoiTrangKD\bin\Debug\Bunifu.Licensing.dll
+E:\Phat trien ung dung\PTUD_DO_AN\QuanLyCuaHangThoiTrangKD\QuanLyCuaHangThoiTrangKD\bin\Debug\EntityFramework.dll
+E:\Phat trien ung dung\PTUD_DO_AN\QuanLyCuaHangThoiTrangKD\QuanLyCuaHangThoiTrangKD\bin\Debug\QuanLyCuaHangThoiTrangKD.exe.config
+E:\Phat trien ung dung\PTUD_DO_AN\QuanLyCuaHangThoiTrangKD\QuanLyCuaHangThoiTrangKD\bin\Debug\QuanLyCuaHangThoiTrangKD.exe
+E:\Phat trien ung dung\PTUD_DO_AN\QuanLyCuaHangThoiTrangKD\QuanLyCuaHangThoiTrangKD\bin\Debug\QuanLyCuaHangThoiTrangKD.pdb
+E:\Phat trien ung dung\PTUD_DO_AN\QuanLyCuaHangThoiTrangKD\QuanLyCuaHangThoiTrangKD\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.dll
+E:\Phat trien ung dung\PTUD_DO_AN\QuanLyCuaHangThoiTrangKD\QuanLyCuaHangThoiTrangKD\bin\Debug\EntityFramework.SqlServer.dll
+E:\Phat trien ung dung\PTUD_DO_AN\QuanLyCuaHangThoiTrangKD\QuanLyCuaHangThoiTrangKD\bin\Debug\EPPlus.dll
+E:\Phat trien ung dung\PTUD_DO_AN\QuanLyCuaHangThoiTrangKD\QuanLyCuaHangThoiTrangKD\bin\Debug\LiveCharts.dll
+E:\Phat trien ung dung\PTUD_DO_AN\QuanLyCuaHangThoiTrangKD\QuanLyCuaHangThoiTrangKD\bin\Debug\LiveCharts.WinForms.dll
+E:\Phat trien ung dung\PTUD_DO_AN\QuanLyCuaHangThoiTrangKD\QuanLyCuaHangThoiTrangKD\bin\Debug\LiveCharts.Wpf.dll
+E:\Phat trien ung dung\PTUD_DO_AN\QuanLyCuaHangThoiTrangKD\QuanLyCuaHangThoiTrangKD\bin\Debug\Newtonsoft.Json.dll
+E:\Phat trien ung dung\PTUD_DO_AN\QuanLyCuaHangThoiTrangKD\QuanLyCuaHangThoiTrangKD\bin\Debug\EntityFramework.xml
+E:\Phat trien ung dung\PTUD_DO_AN\QuanLyCuaHangThoiTrangKD\QuanLyCuaHangThoiTrangKD\bin\Debug\EntityFramework.SqlServer.xml
+E:\Phat trien ung dung\PTUD_DO_AN\QuanLyCuaHangThoiTrangKD\QuanLyCuaHangThoiTrangKD\bin\Debug\EPPlus.xml
+E:\Phat trien ung dung\PTUD_DO_AN\QuanLyCuaHangThoiTrangKD\QuanLyCuaHangThoiTrangKD\bin\Debug\LiveCharts.pdb
+E:\Phat trien ung dung\PTUD_DO_AN\QuanLyCuaHangThoiTrangKD\QuanLyCuaHangThoiTrangKD\bin\Debug\LiveCharts.xml
+E:\Phat trien ung dung\PTUD_DO_AN\QuanLyCuaHangThoiTrangKD\QuanLyCuaHangThoiTrangKD\bin\Debug\LiveCharts.WinForms.pdb
+E:\Phat trien ung dung\PTUD_DO_AN\QuanLyCuaHangThoiTrangKD\QuanLyCuaHangThoiTrangKD\bin\Debug\LiveCharts.WinForms.xml
+E:\Phat trien ung dung\PTUD_DO_AN\QuanLyCuaHangThoiTrangKD\QuanLyCuaHangThoiTrangKD\bin\Debug\LiveCharts.Wpf.pdb
+E:\Phat trien ung dung\PTUD_DO_AN\QuanLyCuaHangThoiTrangKD\QuanLyCuaHangThoiTrangKD\bin\Debug\LiveCharts.Wpf.xml
+E:\Phat trien ung dung\PTUD_DO_AN\QuanLyCuaHangThoiTrangKD\QuanLyCuaHangThoiTrangKD\bin\Debug\Newtonsoft.Json.xml
+E:\Phat trien ung dung\PTUD_DO_AN\QuanLyCuaHangThoiTrangKD\QuanLyCuaHangThoiTrangKD\obj\Debug\QuanLyCuaHangThoiTrangKD.Forms.Function.FormLapHoaDon.resources
+E:\Phat trien ung dung\PTUD_DO_AN\QuanLyCuaHangThoiTrangKD\QuanLyCuaHangThoiTrangKD\obj\Debug\QuanLyCuaHangThoiTrangKD.Forms.Function.FormDanhMucSanPham.resources
+E:\Phat trien ung dung\PTUD_DO_AN\QuanLyCuaHangThoiTrangKD\QuanLyCuaHangThoiTrangKD\obj\Debug\QuanLyCuaHangThoiTrangKD.Forms.Function.FormLapPhieuNhap.resources
+E:\Phat trien ung dung\PTUD_DO_AN\QuanLyCuaHangThoiTrangKD\QuanLyCuaHangThoiTrangKD\obj\Debug\QuanLyCuaHangThoiTrangKD.Forms.Function.FormThongKetheoSP.resources
+E:\Phat trien ung dung\PTUD_DO_AN\QuanLyCuaHangThoiTrangKD\QuanLyCuaHangThoiTrangKD\obj\Debug\QuanLyCuaHangThoiTrangKD.Forms.Function.FormThongTinSanPham.resources
+E:\Phat trien ung dung\PTUD_DO_AN\QuanLyCuaHangThoiTrangKD\QuanLyCuaHangThoiTrangKD\obj\Debug\QuanLyCuaHangThoiTrangKD.FrmMain.resources
+E:\Phat trien ung dung\PTUD_DO_AN\QuanLyCuaHangThoiTrangKD\QuanLyCuaHangThoiTrangKD\obj\Debug\QuanLyCuaHangThoiTrangKD.Forms.FormDangNhap.resources
+E:\Phat trien ung dung\PTUD_DO_AN\QuanLyCuaHangThoiTrangKD\QuanLyCuaHangThoiTrangKD\obj\Debug\QuanLyCuaHangThoiTrangKD.Forms.Function.FormCapNhatHoaDon.resources
+E:\Phat trien ung dung\PTUD_DO_AN\QuanLyCuaHangThoiTrangKD\QuanLyCuaHangThoiTrangKD\obj\Debug\QuanLyCuaHangThoiTrangKD.Forms.Function.FormCapNhatPhieuNhap.resources
+E:\Phat trien ung dung\PTUD_DO_AN\QuanLyCuaHangThoiTrangKD\QuanLyCuaHangThoiTrangKD\obj\Debug\QuanLyCuaHangThoiTrangKD.Forms.Function.FormThayDoiMatKhau.resources
+E:\Phat trien ung dung\PTUD_DO_AN\QuanLyCuaHangThoiTrangKD\QuanLyCuaHangThoiTrangKD\obj\Debug\QuanLyCuaHangThoiTrangKD.Forms.Function.FormLuongNhanVien.resources
+E:\Phat trien ung dung\PTUD_DO_AN\QuanLyCuaHangThoiTrangKD\QuanLyCuaHangThoiTrangKD\obj\Debug\QuanLyCuaHangThoiTrangKD.Forms.Function.FormThongKetheoHD.resources
+E:\Phat trien ung dung\PTUD_DO_AN\QuanLyCuaHangThoiTrangKD\QuanLyCuaHangThoiTrangKD\obj\Debug\QuanLyCuaHangThoiTrangKD.Forms.Function.FormThongTinKhachHang.resources
+E:\Phat trien ung dung\PTUD_DO_AN\QuanLyCuaHangThoiTrangKD\QuanLyCuaHangThoiTrangKD\obj\Debug\QuanLyCuaHangThoiTrangKD.Forms.Function.FormThongTinNCC.resources
+E:\Phat trien ung dung\PTUD_DO_AN\QuanLyCuaHangThoiTrangKD\QuanLyCuaHangThoiTrangKD\obj\Debug\QuanLyCuaHangThoiTrangKD.Forms.Function.FormThongTinNhanVien.resources
+E:\Phat trien ung dung\PTUD_DO_AN\QuanLyCuaHangThoiTrangKD\QuanLyCuaHangThoiTrangKD\obj\Debug\QuanLyCuaHangThoiTrangKD.Forms.Function.FormThongTinTaiKhoan.resources
+E:\Phat trien ung dung\PTUD_DO_AN\QuanLyCuaHangThoiTrangKD\QuanLyCuaHangThoiTrangKD\obj\Debug\QuanLyCuaHangThoiTrangKD.Migrations.KhaiV2_Migration.resources
+E:\Phat trien ung dung\PTUD_DO_AN\QuanLyCuaHangThoiTrangKD\QuanLyCuaHangThoiTrangKD\obj\Debug\QuanLyCuaHangThoiTrangKD.Migrations.KhaiV3_Migration.resources
+E:\Phat trien ung dung\PTUD_DO_AN\QuanLyCuaHangThoiTrangKD\QuanLyCuaHangThoiTrangKD\obj\Debug\QuanLyCuaHangThoiTrangKD.Migrations.KhaiV4_Migration.resources
+E:\Phat trien ung dung\PTUD_DO_AN\QuanLyCuaHangThoiTrangKD\QuanLyCuaHangThoiTrangKD\obj\Debug\QuanLyCuaHangThoiTrangKD.Migrations.KhaiV6_Migra.resources
+E:\Phat trien ung dung\PTUD_DO_AN\QuanLyCuaHangThoiTrangKD\QuanLyCuaHangThoiTrangKD\obj\Debug\QuanLyCuaHangThoiTrangKD.Migrations.KhaiV7_Migra.resources
+E:\Phat trien ung dung\PTUD_DO_AN\QuanLyCuaHangThoiTrangKD\QuanLyCuaHangThoiTrangKD\obj\Debug\QuanLyCuaHangThoiTrangKD.Migrations.KhaiV8_Migration.resources
+E:\Phat trien ung dung\PTUD_DO_AN\QuanLyCuaHangThoiTrangKD\QuanLyCuaHangThoiTrangKD\obj\Debug\QuanLyCuaHangThoiTrangKD.Properties.Resources.resources
+E:\Phat trien ung dung\PTUD_DO_AN\QuanLyCuaHangThoiTrangKD\QuanLyCuaHangThoiTrangKD\obj\Debug\QuanLyCuaHangThoiTrangKD.csproj.GenerateResource.cache
+E:\Phat trien ung dung\PTUD_DO_AN\QuanLyCuaHangThoiTrangKD\QuanLyCuaHangThoiTrangKD\obj\Debug\QuanLyCuaHangThoiTrangKD.exe.licenses
+E:\Phat trien ung dung\PTUD_DO_AN\QuanLyCuaHangThoiTrangKD\QuanLyCuaHangThoiTrangKD\obj\Debug\QuanLyCuaHangThoiTrangKD.csproj.CoreCompileInputs.cache
+E:\Phat trien ung dung\PTUD_DO_AN\QuanLyCuaHangThoiTrangKD\QuanLyCuaHangThoiTrangKD\obj\Debug\QuanLyCuaHangThoiTrangKD.csproj.CopyComplete
+E:\Phat trien ung dung\PTUD_DO_AN\QuanLyCuaHangThoiTrangKD\QuanLyCuaHangThoiTrangKD\obj\Debug\QuanLyCuaHangThoiTrangKD.exe
+E:\Phat trien ung dung\PTUD_DO_AN\QuanLyCuaHangThoiTrangKD\QuanLyCuaHangThoiTrangKD\obj\Debug\QuanLyCuaHangThoiTrangKD.pdb
+E:\Phat trien ung dung\PTUD_DO_AN\QuanLyCuaHangThoiTrangKD\QuanLyCuaHangThoiTrangKD\obj\Debug\QuanLyCuaHangThoiTrangKD.Forms.Function.FormChiTietHoaDon.resources
+E:\Phat trien ung dung\PTUD_DO_AN\QuanLyCuaHangThoiTrangKD\QuanLyCuaHangThoiTrangKD\obj\Debug\QuanLyCuaHangThoiTrangKD.Forms.Function.FormChiTietPhieuNhap.resources
+E:\Phat trien ung dung\PTUD_DO_AN\QuanLyCuaHangThoiTrangKD\QuanLyCuaHangThoiTrangKD\obj\Debug\QuanLyCuaHangThoiTrangKD.Forms.Function.FormChiTietSanPham.resources
+E:\Phat trien ung dung\PTUD_DO_AN\QuanLyCuaHangThoiTrangKD\QuanLyCuaHangThoiTrangKD\obj\Debug\QuanLyCuaHangThoiTrangKD.Forms.Function.FormDanhsachSPHethang.resources
+E:\Phat trien ung dung\PTUD_DO_AN\QuanLyCuaHangThoiTrangKD\QuanLyCuaHangThoiTrangKD\obj\Debug\QuanLyCuaHangThoiTrangKD.csprojAssemblyReference.cache
+E:\Phat trien ung dung\pham mem\Khai\PTUD_DO_AN\QuanLyCuaHangThoiTrangKD\QuanLyCuaHangThoiTrangKD\bin\Debug\QuanLyCuaHangThoiTrangKD.exe.config
+E:\Phat trien ung dung\pham mem\Khai\PTUD_DO_AN\QuanLyCuaHangThoiTrangKD\QuanLyCuaHangThoiTrangKD\bin\Debug\QuanLyCuaHangThoiTrangKD.exe
+E:\Phat trien ung dung\pham mem\Khai\PTUD_DO_AN\QuanLyCuaHangThoiTrangKD\QuanLyCuaHangThoiTrangKD\bin\Debug\QuanLyCuaHangThoiTrangKD.pdb
+E:\Phat trien ung dung\pham mem\Khai\PTUD_DO_AN\QuanLyCuaHangThoiTrangKD\QuanLyCuaHangThoiTrangKD\bin\Debug\EntityFramework.dll
+E:\Phat trien ung dung\pham mem\Khai\PTUD_DO_AN\QuanLyCuaHangThoiTrangKD\QuanLyCuaHangThoiTrangKD\bin\Debug\EntityFramework.SqlServer.dll
+E:\Phat trien ung dung\pham mem\Khai\PTUD_DO_AN\QuanLyCuaHangThoiTrangKD\QuanLyCuaHangThoiTrangKD\bin\Debug\EPPlus.dll
+E:\Phat trien ung dung\pham mem\Khai\PTUD_DO_AN\QuanLyCuaHangThoiTrangKD\QuanLyCuaHangThoiTrangKD\bin\Debug\LiveCharts.dll
+E:\Phat trien ung dung\pham mem\Khai\PTUD_DO_AN\QuanLyCuaHangThoiTrangKD\QuanLyCuaHangThoiTrangKD\bin\Debug\LiveCharts.WinForms.dll
+E:\Phat trien ung dung\pham mem\Khai\PTUD_DO_AN\QuanLyCuaHangThoiTrangKD\QuanLyCuaHangThoiTrangKD\bin\Debug\LiveCharts.Wpf.dll
+E:\Phat trien ung dung\pham mem\Khai\PTUD_DO_AN\QuanLyCuaHangThoiTrangKD\QuanLyCuaHangThoiTrangKD\bin\Debug\Newtonsoft.Json.dll
+E:\Phat trien ung dung\pham mem\Khai\PTUD_DO_AN\QuanLyCuaHangThoiTrangKD\QuanLyCuaHangThoiTrangKD\bin\Debug\EntityFramework.xml
+E:\Phat trien ung dung\pham mem\Khai\PTUD_DO_AN\QuanLyCuaHangThoiTrangKD\QuanLyCuaHangThoiTrangKD\bin\Debug\EntityFramework.SqlServer.xml
+E:\Phat trien ung dung\pham mem\Khai\PTUD_DO_AN\QuanLyCuaHangThoiTrangKD\QuanLyCuaHangThoiTrangKD\bin\Debug\EPPlus.xml
+E:\Phat trien ung dung\pham mem\Khai\PTUD_DO_AN\QuanLyCuaHangThoiTrangKD\QuanLyCuaHangThoiTrangKD\bin\Debug\LiveCharts.pdb
+E:\Phat trien ung dung\pham mem\Khai\PTUD_DO_AN\QuanLyCuaHangThoiTrangKD\QuanLyCuaHangThoiTrangKD\bin\Debug\LiveCharts.xml
+E:\Phat trien ung dung\pham mem\Khai\PTUD_DO_AN\QuanLyCuaHangThoiTrangKD\QuanLyCuaHangThoiTrangKD\bin\Debug\LiveCharts.WinForms.pdb
+E:\Phat trien ung dung\pham mem\Khai\PTUD_DO_AN\QuanLyCuaHangThoiTrangKD\QuanLyCuaHangThoiTrangKD\bin\Debug\LiveCharts.WinForms.xml
+E:\Phat trien ung dung\pham mem\Khai\PTUD_DO_AN\QuanLyCuaHangThoiTrangKD\QuanLyCuaHangThoiTrangKD\bin\Debug\LiveCharts.Wpf.pdb
+E:\Phat trien ung dung\pham mem\Khai\PTUD_DO_AN\QuanLyCuaHangThoiTrangKD\QuanLyCuaHangThoiTrangKD\bin\Debug\LiveCharts.Wpf.xml
+E:\Phat trien ung dung\pham mem\Khai\PTUD_DO_AN\QuanLyCuaHangThoiTrangKD\QuanLyCuaHangThoiTrangKD\bin\Debug\Newtonsoft.Json.xml
+E:\Phat trien ung dung\pham mem\Khai\PTUD_DO_AN\QuanLyCuaHangThoiTrangKD\QuanLyCuaHangThoiTrangKD\obj\Debug\QuanLyCuaHangThoiTrangKD.Forms.Function.FormChiTietHoaDon.resources
+E:\Phat trien ung dung\pham mem\Khai\PTUD_DO_AN\QuanLyCuaHangThoiTrangKD\QuanLyCuaHangThoiTrangKD\obj\Debug\QuanLyCuaHangThoiTrangKD.Forms.Function.FormChiTietPhieuNhap.resources
+E:\Phat trien ung dung\pham mem\Khai\PTUD_DO_AN\QuanLyCuaHangThoiTrangKD\QuanLyCuaHangThoiTrangKD\obj\Debug\QuanLyCuaHangThoiTrangKD.Forms.Function.FormChiTietSanPham.resources
+E:\Phat trien ung dung\pham mem\Khai\PTUD_DO_AN\QuanLyCuaHangThoiTrangKD\QuanLyCuaHangThoiTrangKD\obj\Debug\QuanLyCuaHangThoiTrangKD.Forms.Function.FormDanhsachSPHethang.resources
+E:\Phat trien ung dung\pham mem\Khai\PTUD_DO_AN\QuanLyCuaHangThoiTrangKD\QuanLyCuaHangThoiTrangKD\obj\Debug\QuanLyCuaHangThoiTrangKD.Forms.Function.FormLapHoaDon.resources
+E:\Phat trien ung dung\pham mem\Khai\PTUD_DO_AN\QuanLyCuaHangThoiTrangKD\QuanLyCuaHangThoiTrangKD\obj\Debug\QuanLyCuaHangThoiTrangKD.Forms.Function.FormDanhMucSanPham.resources
+E:\Phat trien ung dung\pham mem\Khai\PTUD_DO_AN\QuanLyCuaHangThoiTrangKD\QuanLyCuaHangThoiTrangKD\obj\Debug\QuanLyCuaHangThoiTrangKD.Forms.Function.FormLapPhieuNhap.resources
+E:\Phat trien ung dung\pham mem\Khai\PTUD_DO_AN\QuanLyCuaHangThoiTrangKD\QuanLyCuaHangThoiTrangKD\obj\Debug\QuanLyCuaHangThoiTrangKD.Forms.Function.FormThongKetheoSP.resources
+E:\Phat trien ung dung\pham mem\Khai\PTUD_DO_AN\QuanLyCuaHangThoiTrangKD\QuanLyCuaHangThoiTrangKD\obj\Debug\QuanLyCuaHangThoiTrangKD.Forms.Function.FormThongTinSanPham.resources
+E:\Phat trien ung dung\pham mem\Khai\PTUD_DO_AN\QuanLyCuaHangThoiTrangKD\QuanLyCuaHangThoiTrangKD\obj\Debug\QuanLyCuaHangThoiTrangKD.FrmMain.resources
+E:\Phat trien ung dung\pham mem\Khai\PTUD_DO_AN\QuanLyCuaHangThoiTrangKD\QuanLyCuaHangThoiTrangKD\obj\Debug\QuanLyCuaHangThoiTrangKD.Forms.FormDangNhap.resources
+E:\Phat trien ung dung\pham mem\Khai\PTUD_DO_AN\QuanLyCuaHangThoiTrangKD\QuanLyCuaHangThoiTrangKD\obj\Debug\QuanLyCuaHangThoiTrangKD.Forms.Function.FormCapNhatHoaDon.resources
+E:\Phat trien ung dung\pham mem\Khai\PTUD_DO_AN\QuanLyCuaHangThoiTrangKD\QuanLyCuaHangThoiTrangKD\obj\Debug\QuanLyCuaHangThoiTrangKD.Forms.Function.FormCapNhatPhieuNhap.resources
+E:\Phat trien ung dung\pham mem\Khai\PTUD_DO_AN\QuanLyCuaHangThoiTrangKD\QuanLyCuaHangThoiTrangKD\obj\Debug\QuanLyCuaHangThoiTrangKD.Forms.Function.FormThayDoiMatKhau.resources
+E:\Phat trien ung dung\pham mem\Khai\PTUD_DO_AN\QuanLyCuaHangThoiTrangKD\QuanLyCuaHangThoiTrangKD\obj\Debug\QuanLyCuaHangThoiTrangKD.Forms.Function.FormLuongNhanVien.resources
+E:\Phat trien ung dung\pham mem\Khai\PTUD_DO_AN\QuanLyCuaHangThoiTrangKD\QuanLyCuaHangThoiTrangKD\obj\Debug\QuanLyCuaHangThoiTrangKD.Forms.Function.FormThongKetheoHD.resources
+E:\Phat trien ung dung\pham mem\Khai\PTUD_DO_AN\QuanLyCuaHangThoiTrangKD\QuanLyCuaHangThoiTrangKD\obj\Debug\QuanLyCuaHangThoiTrangKD.Forms.Function.FormThongTinKhachHang.resources
+E:\Phat trien ung dung\pham mem\Khai\PTUD_DO_AN\QuanLyCuaHangThoiTrangKD\QuanLyCuaHangThoiTrangKD\obj\Debug\QuanLyCuaHangThoiTrangKD.Forms.Function.FormThongTinNCC.resources
+E:\Phat trien ung dung\pham mem\Khai\PTUD_DO_AN\QuanLyCuaHangThoiTrangKD\QuanLyCuaHangThoiTrangKD\obj\Debug\QuanLyCuaHangThoiTrangKD.Forms.Function.FormThongTinNhanVien.resources
+E:\Phat trien ung dung\pham mem\Khai\PTUD_DO_AN\QuanLyCuaHangThoiTrangKD\QuanLyCuaHangThoiTrangKD\obj\Debug\QuanLyCuaHangThoiTrangKD.Forms.Function.FormThongTinTaiKhoan.resources
+E:\Phat trien ung dung\pham mem\Khai\PTUD_DO_AN\QuanLyCuaHangThoiTrangKD\QuanLyCuaHangThoiTrangKD\obj\Debug\QuanLyCuaHangThoiTrangKD.Properties.Resources.resources
+E:\Phat trien ung dung\pham mem\Khai\PTUD_DO_AN\QuanLyCuaHangThoiTrangKD\QuanLyCuaHangThoiTrangKD\obj\Debug\QuanLyCuaHangThoiTrangKD.csproj.GenerateResource.cache
+E:\Phat trien ung dung\pham mem\Khai\PTUD_DO_AN\QuanLyCuaHangThoiTrangKD\QuanLyCuaHangThoiTrangKD\obj\Debug\QuanLyCuaHangThoiTrangKD.exe.licenses
+E:\Phat trien ung dung\pham mem\Khai\PTUD_DO_AN\QuanLyCuaHangThoiTrangKD\QuanLyCuaHangThoiTrangKD\obj\Debug\QuanLyCuaHangThoiTrangKD.csproj.CoreCompileInputs.cache
+E:\Phat trien ung dung\pham mem\Khai\PTUD_DO_AN\QuanLyCuaHangThoiTrangKD\QuanLyCuaHangThoiTrangKD\obj\Debug\QuanLyCuaHangThoiTrangKD.csproj.CopyComplete
+E:\Phat trien ung dung\pham mem\Khai\PTUD_DO_AN\QuanLyCuaHangThoiTrangKD\QuanLyCuaHangThoiTrangKD\obj\Debug\QuanLyCuaHangThoiTrangKD.exe
+E:\Phat trien ung dung\pham mem\Khai\PTUD_DO_AN\QuanLyCuaHangThoiTrangKD\QuanLyCuaHangThoiTrangKD\obj\Debug\QuanLyCuaHangThoiTrangKD.pdb
+E:\Phat trien ung dung\pham mem\Khai\PTUD_DO_AN\QuanLyCuaHangThoiTrangKD\QuanLyCuaHangThoiTrangKD\obj\Debug\QuanLyCuaHangThoiTrangKD.Forms.Function.FormDanhsachHangchoHoadon.resources
+E:\Phat trien ung dung\pham mem\Khai\PTUD_DO_AN\QuanLyCuaHangThoiTrangKD\QuanLyCuaHangThoiTrangKD\obj\Debug\QuanLyCuaHangThoiTrangKD.Forms.Function.FormThemKhachHang.resources
+E:\Phat trien ung dung\pham mem\Khai\PTUD_DO_AN\QuanLyCuaHangThoiTrangKD\QuanLyCuaHangThoiTrangKD\obj\Debug\QuanLyCuaHangThoiTrangKD.Migrations.khai_migra.resources
+E:\Phat trien ung dung\pham mem\Khai\PTUD_DO_AN\QuanLyCuaHangThoiTrangKD\QuanLyCuaHangThoiTrangKD\obj\Debug\QuanLyCuaHangThoiTrangKD.csprojAssemblyReference.cache
+E:\Phat trien ung dung\DA_PTUD_Nhom08\Source\QuanLyCuaHangThoiTrangKD\QuanLyCuaHangThoiTrangKD\bin\Debug\QuanLyCuaHangThoiTrangKD.exe.config
+E:\Phat trien ung dung\DA_PTUD_Nhom08\Source\QuanLyCuaHangThoiTrangKD\QuanLyCuaHangThoiTrangKD\bin\Debug\QuanLyCuaHangThoiTrangKD.exe
+E:\Phat trien ung dung\DA_PTUD_Nhom08\Source\QuanLyCuaHangThoiTrangKD\QuanLyCuaHangThoiTrangKD\bin\Debug\QuanLyCuaHangThoiTrangKD.pdb
+E:\Phat trien ung dung\DA_PTUD_Nhom08\Source\QuanLyCuaHangThoiTrangKD\QuanLyCuaHangThoiTrangKD\bin\Debug\EntityFramework.dll
+E:\Phat trien ung dung\DA_PTUD_Nhom08\Source\QuanLyCuaHangThoiTrangKD\QuanLyCuaHangThoiTrangKD\bin\Debug\EntityFramework.SqlServer.dll
+E:\Phat trien ung dung\DA_PTUD_Nhom08\Source\QuanLyCuaHangThoiTrangKD\QuanLyCuaHangThoiTrangKD\bin\Debug\EPPlus.dll
+E:\Phat trien ung dung\DA_PTUD_Nhom08\Source\QuanLyCuaHangThoiTrangKD\QuanLyCuaHangThoiTrangKD\bin\Debug\LiveCharts.dll
+E:\Phat trien ung dung\DA_PTUD_Nhom08\Source\QuanLyCuaHangThoiTrangKD\QuanLyCuaHangThoiTrangKD\bin\Debug\LiveCharts.WinForms.dll
+E:\Phat trien ung dung\DA_PTUD_Nhom08\Source\QuanLyCuaHangThoiTrangKD\QuanLyCuaHangThoiTrangKD\bin\Debug\LiveCharts.Wpf.dll
+E:\Phat trien ung dung\DA_PTUD_Nhom08\Source\QuanLyCuaHangThoiTrangKD\QuanLyCuaHangThoiTrangKD\bin\Debug\Newtonsoft.Json.dll
+E:\Phat trien ung dung\DA_PTUD_Nhom08\Source\QuanLyCuaHangThoiTrangKD\QuanLyCuaHangThoiTrangKD\bin\Debug\EntityFramework.xml
+E:\Phat trien ung dung\DA_PTUD_Nhom08\Source\QuanLyCuaHangThoiTrangKD\QuanLyCuaHangThoiTrangKD\bin\Debug\EntityFramework.SqlServer.xml
+E:\Phat trien ung dung\DA_PTUD_Nhom08\Source\QuanLyCuaHangThoiTrangKD\QuanLyCuaHangThoiTrangKD\bin\Debug\EPPlus.xml
+E:\Phat trien ung dung\DA_PTUD_Nhom08\Source\QuanLyCuaHangThoiTrangKD\QuanLyCuaHangThoiTrangKD\bin\Debug\LiveCharts.pdb
+E:\Phat trien ung dung\DA_PTUD_Nhom08\Source\QuanLyCuaHangThoiTrangKD\QuanLyCuaHangThoiTrangKD\bin\Debug\LiveCharts.xml
+E:\Phat trien ung dung\DA_PTUD_Nhom08\Source\QuanLyCuaHangThoiTrangKD\QuanLyCuaHangThoiTrangKD\bin\Debug\LiveCharts.WinForms.pdb
+E:\Phat trien ung dung\DA_PTUD_Nhom08\Source\QuanLyCuaHangThoiTrangKD\QuanLyCuaHangThoiTrangKD\bin\Debug\LiveCharts.WinForms.xml
+E:\Phat trien ung dung\DA_PTUD_Nhom08\Source\QuanLyCuaHangThoiTrangKD\QuanLyCuaHangThoiTrangKD\bin\Debug\LiveCharts.Wpf.pdb
+E:\Phat trien ung dung\DA_PTUD_Nhom08\Source\QuanLyCuaHangThoiTrangKD\QuanLyCuaHangThoiTrangKD\bin\Debug\LiveCharts.Wpf.xml
+E:\Phat trien ung dung\DA_PTUD_Nhom08\Source\QuanLyCuaHangThoiTrangKD\QuanLyCuaHangThoiTrangKD\bin\Debug\Newtonsoft.Json.xml
+E:\Phat trien ung dung\DA_PTUD_Nhom08\Source\QuanLyCuaHangThoiTrangKD\QuanLyCuaHangThoiTrangKD\obj\Debug\QuanLyCuaHangThoiTrangKD.csprojAssemblyReference.cache
+E:\Phat trien ung dung\DA_PTUD_Nhom08\Source\QuanLyCuaHangThoiTrangKD\QuanLyCuaHangThoiTrangKD\obj\Debug\QuanLyCuaHangThoiTrangKD.Forms.Function.FormChiTietHoaDon.resources
+E:\Phat trien ung dung\DA_PTUD_Nhom08\Source\QuanLyCuaHangThoiTrangKD\QuanLyCuaHangThoiTrangKD\obj\Debug\QuanLyCuaHangThoiTrangKD.Forms.Function.FormChiTietPhieuNhap.resources
+E:\Phat trien ung dung\DA_PTUD_Nhom08\Source\QuanLyCuaHangThoiTrangKD\QuanLyCuaHangThoiTrangKD\obj\Debug\QuanLyCuaHangThoiTrangKD.Forms.Function.FormChiTietSanPham.resources
+E:\Phat trien ung dung\DA_PTUD_Nhom08\Source\QuanLyCuaHangThoiTrangKD\QuanLyCuaHangThoiTrangKD\obj\Debug\QuanLyCuaHangThoiTrangKD.Forms.Function.FormDanhsachHangchoHoadon.resources
+E:\Phat trien ung dung\DA_PTUD_Nhom08\Source\QuanLyCuaHangThoiTrangKD\QuanLyCuaHangThoiTrangKD\obj\Debug\QuanLyCuaHangThoiTrangKD.Forms.Function.FormDanhsachSPHethang.resources
+E:\Phat trien ung dung\DA_PTUD_Nhom08\Source\QuanLyCuaHangThoiTrangKD\QuanLyCuaHangThoiTrangKD\obj\Debug\QuanLyCuaHangThoiTrangKD.Forms.Function.FormLapHoaDon.resources
+E:\Phat trien ung dung\DA_PTUD_Nhom08\Source\QuanLyCuaHangThoiTrangKD\QuanLyCuaHangThoiTrangKD\obj\Debug\QuanLyCuaHangThoiTrangKD.Forms.Function.FormDanhMucSanPham.resources
+E:\Phat trien ung dung\DA_PTUD_Nhom08\Source\QuanLyCuaHangThoiTrangKD\QuanLyCuaHangThoiTrangKD\obj\Debug\QuanLyCuaHangThoiTrangKD.Forms.Function.FormLapPhieuNhap.resources
+E:\Phat trien ung dung\DA_PTUD_Nhom08\Source\QuanLyCuaHangThoiTrangKD\QuanLyCuaHangThoiTrangKD\obj\Debug\QuanLyCuaHangThoiTrangKD.Forms.Function.FormThemKhachHang.resources
+E:\Phat trien ung dung\DA_PTUD_Nhom08\Source\QuanLyCuaHangThoiTrangKD\QuanLyCuaHangThoiTrangKD\obj\Debug\QuanLyCuaHangThoiTrangKD.Forms.Function.FormThongKetheoSP.resources
+E:\Phat trien ung dung\DA_PTUD_Nhom08\Source\QuanLyCuaHangThoiTrangKD\QuanLyCuaHangThoiTrangKD\obj\Debug\QuanLyCuaHangThoiTrangKD.Forms.Function.FormThongTinSanPham.resources
+E:\Phat trien ung dung\DA_PTUD_Nhom08\Source\QuanLyCuaHangThoiTrangKD\QuanLyCuaHangThoiTrangKD\obj\Debug\QuanLyCuaHangThoiTrangKD.FrmMain.resources
+E:\Phat trien ung dung\DA_PTUD_Nhom08\Source\QuanLyCuaHangThoiTrangKD\QuanLyCuaHangThoiTrangKD\obj\Debug\QuanLyCuaHangThoiTrangKD.Forms.FormDangNhap.resources
+E:\Phat trien ung dung\DA_PTUD_Nhom08\Source\QuanLyCuaHangThoiTrangKD\QuanLyCuaHangThoiTrangKD\obj\Debug\QuanLyCuaHangThoiTrangKD.Forms.Function.FormCapNhatHoaDon.resources
+E:\Phat trien ung dung\DA_PTUD_Nhom08\Source\QuanLyCuaHangThoiTrangKD\QuanLyCuaHangThoiTrangKD\obj\Debug\QuanLyCuaHangThoiTrangKD.Forms.Function.FormCapNhatPhieuNhap.resources
+E:\Phat trien ung dung\DA_PTUD_Nhom08\Source\QuanLyCuaHangThoiTrangKD\QuanLyCuaHangThoiTrangKD\obj\Debug\QuanLyCuaHangThoiTrangKD.Forms.Function.FormThayDoiMatKhau.resources
+E:\Phat trien ung dung\DA_PTUD_Nhom08\Source\QuanLyCuaHangThoiTrangKD\QuanLyCuaHangThoiTrangKD\obj\Debug\QuanLyCuaHangThoiTrangKD.Forms.Function.FormLuongNhanVien.resources
+E:\Phat trien ung dung\DA_PTUD_Nhom08\Source\QuanLyCuaHangThoiTrangKD\QuanLyCuaHangThoiTrangKD\obj\Debug\QuanLyCuaHangThoiTrangKD.Forms.Function.FormThongKetheoHD.resources
+E:\Phat trien ung dung\DA_PTUD_Nhom08\Source\QuanLyCuaHangThoiTrangKD\QuanLyCuaHangThoiTrangKD\obj\Debug\QuanLyCuaHangThoiTrangKD.Forms.Function.FormThongTinKhachHang.resources
+E:\Phat trien ung dung\DA_PTUD_Nhom08\Source\QuanLyCuaHangThoiTrangKD\QuanLyCuaHangThoiTrangKD\obj\Debug\QuanLyCuaHangThoiTrangKD.Forms.Function.FormThongTinNCC.resources
+E:\Phat trien ung dung\DA_PTUD_Nhom08\Source\QuanLyCuaHangThoiTrangKD\QuanLyCuaHangThoiTrangKD\obj\Debug\QuanLyCuaHangThoiTrangKD.Forms.Function.FormThongTinNhanVien.resources
+E:\Phat trien ung dung\DA_PTUD_Nhom08\Source\QuanLyCuaHangThoiTrangKD\QuanLyCuaHangThoiTrangKD\obj\Debug\QuanLyCuaHangThoiTrangKD.Forms.Function.FormThongTinTaiKhoan.resources
+E:\Phat trien ung dung\DA_PTUD_Nhom08\Source\QuanLyCuaHangThoiTrangKD\QuanLyCuaHangThoiTrangKD\obj\Debug\QuanLyCuaHangThoiTrangKD.Properties.Resources.resources
+E:\Phat trien ung dung\DA_PTUD_Nhom08\Source\QuanLyCuaHangThoiTrangKD\QuanLyCuaHangThoiTrangKD\obj\Debug\QuanLyCuaHangThoiTrangKD.csproj.GenerateResource.cache
+E:\Phat trien ung dung\DA_PTUD_Nhom08\Source\QuanLyCuaHangThoiTrangKD\QuanLyCuaHangThoiTrangKD\obj\Debug\QuanLyCuaHangThoiTrangKD.exe.licenses
+E:\Phat trien ung dung\DA_PTUD_Nhom08\Source\QuanLyCuaHangThoiTrangKD\QuanLyCuaHangThoiTrangKD\obj\Debug\QuanLyCuaHangThoiTrangKD.csproj.CoreCompileInputs.cache
+E:\Phat trien ung dung\DA_PTUD_Nhom08\Source\QuanLyCuaHangThoiTrangKD\QuanLyCuaHangThoiTrangKD\obj\Debug\QuanLyCuaHangThoiTrangKD.csproj.CopyComplete
+E:\Phat trien ung dung\DA_PTUD_Nhom08\Source\QuanLyCuaHangThoiTrangKD\QuanLyCuaHangThoiTrangKD\obj\Debug\QuanLyCuaHangThoiTrangKD.exe
+E:\Phat trien ung dung\DA_PTUD_Nhom08\Source\QuanLyCuaHangThoiTrangKD\QuanLyCuaHangThoiTrangKD\obj\Debug\QuanLyCuaHangThoiTrangKD.pdb
+E:\Phat trien ung dung\DA_PTUD_Nhom08\Source\QuanLyCuaHangThoiTrangKD\QuanLyCuaHangThoiTrangKD\obj\Debug\QuanLyCuaHangThoiTrangKD.Migrations.KDSHOP_Migra.resources
