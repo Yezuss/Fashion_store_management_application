@@ -2,9 +2,18 @@
  <h1 align="center"> Fashion_store_management_application</h1>
 </p>
 
-# Introduction
+# ⭐ Introduction
 
 Here is my C# source code for  Fashion_store_management_application. with my code, you could: 
+Main functions of the application:
+* **Product management (Add, update, search)**
+* **Invoice management (Add, update, search)**
+* **Customer information management (Update)**
+* **Employee information management (Add, update)**
+* **Account information management (Add, update)**
+* **Report and statistics management (Generate reports, sort data)**
+
+# ⭐ Experiments
 
 ## 1. Login
 
@@ -41,12 +50,9 @@ _Feel free to fork and contribute to include these features._ ❤︎
 # 🚀 Technologies
 
  Programming tools and languages used:
-  -   Database management system: MySQL.
-  -   Programming tools: Spring Tool Suite 4, Visual Studio Code, Eclipse.
-  -   Programming language: Java.
-    
- Supported libraries and frameworks:
-  -   Spring Boot, Spring Data JPA, Thymeleaf, Lombok, and some other libraries
+  -   Database management system: Microsoft SQL Server 2014.
+  -   Programming tools: Visual Studio 2019 IDE cho C#/Visual Basic .NET
+  -   Programming language: C#.
 
 # 🤝 Contribute
 
